@@ -19,11 +19,11 @@ metadata:
     short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6c0097_000-X.yaml, hash: 'sha256:803948fa055111892e00871809d986c89661557ef90ec05f3877bc953dcd8ed0'}
+  - {seq: 0, filename: KR6c0097_000-X.yaml, hash: 'sha256:b81b5fc590857376b3fc6ff036ca79b341b2275d1ed815144fab7114e6fd8c97'}
   - {seq: 1, filename: KR6c0097_001-X.yaml, hash: 'sha256:49a980678a6ae2a4b04680c947ac8452258c78663f5f961407942ab8a9616fe8'}
   - {seq: 2, filename: KR6c0097_002-X.yaml, hash: 'sha256:3e8284ed63ddb3ed7486e57a0fecb3fce8c798bc5997f25e23e1d0af00d6d614'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6c0097_000-X.markers.yaml, hash: 'sha256:5fd06a30e1b7698380a092c661272c90a80f021fa1a00e0da35a81b8f48c8f77'}
+  - {seq: 0, role: markers, filename: assets/KR6c0097_000-X.markers.yaml, hash: 'sha256:477063e16b536418a803d6dd55d0dddbe2e0c7c46cda5b89b9e56fa5a66b1093'}
   - {seq: 1, role: markers, filename: assets/KR6c0097_001-X.markers.yaml, hash: 'sha256:e51cadc0a150a333623c67ffa23b1de96fb91c8eb1d6ee189ad876ed0cfdbd0c'}
   - {seq: 2, role: markers, filename: assets/KR6c0097_002-X.markers.yaml, hash: 'sha256:8c8eaf437937be653da469154d8106219502d7a2a507e4360b525dc89c4718ce'}
 table_of_contents:
@@ -31,7 +31,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6c0097_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 509-A
@@ -41,7 +41,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6c0097_X_000-mulu-2
     span:
-    - front
+    - body
     - 92
     - 92
   label: No. 509-B 金剛經源流
@@ -51,7 +51,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6c0097_X_000-mulu-3
     span:
-    - front
+    - body
     - 744
     - 744
   label: 彚纂引用書目
@@ -61,7 +61,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6c0097_X_000-mulu-4
     span:
-    - front
+    - body
     - 1029
     - 1029
   label: 例言
@@ -71,7 +71,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6c0097_X_000-mulu-5
     span:
-    - front
+    - body
     - 1751
     - 1751
   label: 誦經要法
@@ -81,7 +81,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6c0097_X_000-mulu-6
     span:
-    - front
+    - body
     - 1755
     - 1755
   label: 何必靜室
@@ -91,7 +91,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6c0097_X_000-mulu-7
     span:
-    - front
+    - body
     - 1822
     - 1822
   label: 何必出家
@@ -101,7 +101,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6c0097_X_000-mulu-8
     span:
-    - front
+    - body
     - 1909
     - 1909
   label: 何必設像
@@ -111,7 +111,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6c0097_X_000-mulu-9
     span:
-    - front
+    - body
     - 1954
     - 1954
   label: 何必急誦
@@ -121,7 +121,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6c0097_X_000-mulu-10
     span:
-    - front
+    - body
     - 2023
     - 2023
   label: 何必跪諷
@@ -131,7 +131,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6c0097_X_000-mulu-11
     span:
-    - front
+    - body
     - 2047
     - 2047
   label: 何必全部
@@ -141,7 +141,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6c0097_X_000-mulu-12
     span:
-    - front
+    - body
     - 2219
     - 2219
   label: 金剛經解義
@@ -167,4 +167,4 @@ table_of_contents:
   label: 金剛般若波羅蜜經卷下
   type: juan
   level: 1
-hash: sha256:0a3845a24ca2d4825bd71cbf427075326bd652132f160ca208b150d5b5af38ca
+hash: sha256:5a0f68322e51a17ba2b85595069bd0c94a3be645ee0bbb500c1086e587bce675
